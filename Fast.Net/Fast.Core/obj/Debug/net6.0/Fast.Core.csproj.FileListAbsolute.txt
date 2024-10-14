@@ -1,0 +1,46 @@
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.deps.json
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfoInputs.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfo.cs
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\refint\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\Fast.Net\Fast.Core\obj\Debug\net6.0\ref\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.deps.json
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfoInputs.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfo.cs
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\refint\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\ref\Fast.Core.dll
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.deps.json
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\refint\Fast.Core.dll
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Desktop\Fast.Net\Fast.Core\obj\Debug\net6.0\ref\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.deps.json
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\bin\Debug\net6.0\Fast.Core.pdb
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\refint\Fast.Core.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\Fast.Core.pdb
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Core\obj\Debug\net6.0\ref\Fast.Core.dll

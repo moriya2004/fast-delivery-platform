@@ -1,0 +1,34 @@
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.csproj.AssemblyReference.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.AssemblyInfoInputs.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.AssemblyInfo.cs
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.deps.json
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.runtimeconfig.json
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Core.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Core.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.csproj.CopyComplete
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\refint\Fast.Data.dll
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.pdb
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.genruntimeconfig.cache
+C:\Users\מיכל\Documents\תכנות שנה ב\angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\ref\Fast.Data.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.deps.json
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.runtimeconfig.json
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Data.pdb
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Core.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\bin\Debug\net6.0\Fast.Core.pdb
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\refint\Fast.Data.dll
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.pdb
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\Fast.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\YEAR B\Angular\FastProject\Fast.Net\Fast.Data\obj\Debug\net6.0\ref\Fast.Data.dll

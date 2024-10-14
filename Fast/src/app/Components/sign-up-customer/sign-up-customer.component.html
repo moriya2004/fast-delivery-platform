@@ -1,0 +1,34 @@
+
+<div class="card divOut">
+    <p-fieldset>
+    <ng-template pTemplate="header">
+        <div class="flex align-items-center gap-2 px-2">
+            <span class="font-bold">sign up</span>
+        </div>
+    </ng-template>
+    <div class="divIn">
+        <p-inputGroup class="divIn">
+            <p-inputGroupAddon>
+                <i class="pi pi-user"></i>
+            </p-inputGroupAddon>
+            <input pInputText placeholder="name" [(ngModel)]="customer.name"/>
+        </p-inputGroup>
+        <br/>
+        <div class="divIn">
+        <p-inputGroup >
+            <p-inputGroupAddon>
+                <i class="pi pi-hashtag"></i>
+            </p-inputGroupAddon>
+            <input pInputText placeholder="Identity" [(ngModel)]="customer.tz" />
+        </p-inputGroup></div>
+        <br/>
+        <p-inputGroup class="divIn">
+            <p-inputGroupAddon>
+                <i class="pi pi-phone"></i>
+            </p-inputGroupAddon>
+            <input pInputText placeholder="phone" [(ngModel)]="customer.phone"/>
+        </p-inputGroup>
+       <button (click)="addCustomer()">signUp</button>
+        </div>
+    </p-fieldset>
+    </div>
